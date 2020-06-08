@@ -1,6 +1,7 @@
 
-tanana:after {
+/* Using After and Before pseudoelements to make a diagonal box rotation appears out off a section and move accordly to the page width */
 
+tanana:after {
     background-color: #233466;
     bottom: -1.5rem;
     content: "";
