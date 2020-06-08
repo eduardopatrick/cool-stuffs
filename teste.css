@@ -1,0 +1,13 @@
+
+tanana:after {
+
+    background-color: #233466;
+    bottom: -1.5rem;
+    content: "";
+    display: block;
+    height: 3rem;
+    left: calc(50% - 1.5rem);
+    position: absolute;
+    transform: rotate(45deg);
+    width: 3rem;
+}
