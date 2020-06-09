@@ -12,3 +12,19 @@ tanana:after {
     transform: rotate(45deg);
     width: 3rem;
 }
+
+/* Best media querie example for me to remember how to crop images for mobile  */
+
+@media (min-width: 601px) {
+    #logo {
+     background: url('../images/logo-medium.png');
+    }
+   }
+  
+   @media (max-width: 600px) {
+    #logo {
+     background: url('../images/logo--small.png');
+  
+    }
+   }
+  
